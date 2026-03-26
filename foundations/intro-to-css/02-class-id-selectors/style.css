@@ -1,1 +1,20 @@
-/* Add CSS Styling */
+.paragraph {
+
+    background-color: lightpink;
+    font-family:'Verdana',' DejaVu Sans', sans-serif;
+
+
+}
+.paragraph.cool {
+    font-size: 24px;
+}
+#one {
+    font-size: 36px;
+    color: blue;
+
+}
+#two {
+    font-size: 24px;
+    font-weight: bold;
+    background-color: lightgreen;
+}
